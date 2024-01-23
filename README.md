@@ -1,7 +1,8 @@
 
 # Curso de Java Básico
 
-## Você pode acessar o curso completo aqui &rarr; [loiane.training](https://loiane.training/curso/java-basico){:target="_blank"}.
+## Você pode acessar o curso completo aqui &rarr; <a href="https://loiane.training/curso/java-basico" target="_blank">loiane.training</a>
+
 Este repositório foi criado para armazenar os códigos que eu desenvolverei durante o curso de Java da Loiane Groner. 
 <br>
 Sinta-se à vontade para explorar e testar os códigos que abrangerão diversos [tópicos](#conteúdo-do-curso). 
@@ -10,10 +11,12 @@ Sinta-se à vontade para explorar e testar os códigos que abrangerão diversos 
 
 ## Instrutora
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) Loiane Groner](https://www.linkedin.com/in/loiane)
+<a href="https://www.linkedin.com/in/loiane" target="_blank"><img src="https://i.stack.imgur.com/gVE0j.png" alt="Linkedin"> Loiane Groner</a>
+<br>
 
-[Outros cursos da instrutora](https://loiane.training/cursos)
+<a href="https://loiane.training/cursos" target="_blank">Outros cursos da instrutora</a>
 
+<br>
 <br>
 
 ## Conteúdo do curso
